@@ -11,3 +11,4 @@
 Players and Weekly Performance by Encounter
 
 ![Final composite](https://raw.githubusercontent.com/Dalbed349/HeatMap_WoWPerformance/master/pics/Final_composite/combo-final.png)
+![Final composite](https://raw.githubusercontent.com/Dalbed349/HeatMap_WoWPerformance/master/pics/concept/week1-names-f.JPG)
