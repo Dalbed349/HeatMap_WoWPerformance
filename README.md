@@ -10,4 +10,4 @@
 
 Players and Weekly Performance by Encounter
 
-![Example HeatMap](https://raw.githubusercontent.com/Dalbed349/HeatMap_WoWPerformance/blob/master/pics/Final_composite/combo-final.png)
+![Final composite](https://raw.githubusercontent.com/Dalbed349/HeatMap_WoWPerformance/master/pics/Final_composite/combo-final.png)
